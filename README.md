@@ -5,6 +5,11 @@
 ### Overview
 This project aims to enhance the operational efficiency and business growth of Shanvi General Store & Dairy Products, a small grocery and dairy shop located in Saketpuri, Patna, India. The store faces challenges in inventory management and understanding customer preferences, which affect its profitability. This project employs data analytics to address these issues and provide actionable recommendations.
 
+### Screenshots
+
+![1](https://github.com/user-attachments/assets/ce5789ab-ae21-428d-a255-3a370a141f94)
+
+
 ### Project Structure
 
 1. **Proposal**
